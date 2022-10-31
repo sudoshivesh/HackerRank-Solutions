@@ -1,4 +1,4 @@
-<h1 align="left>HackerRank Solutions</h1>
+<h1 align="left">HackerRank Solutions</h1>
 
 | Sr. No | Topic |
 | :------| :---------------|
