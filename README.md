@@ -1,4 +1,8 @@
 <h1 align="left">HackerRank Solutions</h1>
+<ul>
+  <li>Here, you will find solution of various problem avaialble on hackerrank</li>
+  <li>It consist of certify as well as prepare by topic solutions</li>
+  <li>if you like the content, do follow https://linktr.ee/sudoshivesh</li>
 
 | Sr. No | Topic |
 | :------| :---------------|
