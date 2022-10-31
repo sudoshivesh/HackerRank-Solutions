@@ -2,7 +2,7 @@
 <ul>
   <li>Here, you will find solution of various problem avaialble on hackerrank</li>
   <li>It consist of certify as well as prepare by topic solutions</li>
-  <li>if you like the content, do follow https://linktr.ee/sudoshivesh</li></br></br>
+  <li>If you like the content, do follow https://linktr.ee/sudoshivesh</li></br></br>
 
 | Sr. No | Topic |
 | :------| :---------------|
